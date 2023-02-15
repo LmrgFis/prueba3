@@ -1,0 +1,45 @@
+body {
+				background-image: url('fondo.png');font-family: 'Roboto', sans-serif;				;
+			}
+			h1 {
+				background-color: #CBDBCB; color:#CF5DC5;
+				margin: 2px
+			}
+			#cabecera {
+				background-color: #EEFFFF; color:#4E9516;
+				margin: 2px;
+				text-align:center;
+				
+			}
+			a {
+				background-color: #DDDDDD;
+				color:#8F1037;
+				margin: 1px;
+				text-decoration:none;
+			}
+			a:hover {
+				background-color: #DDDDDD;
+				color:#FFFFFF;
+				margin: 1px;
+				text-decoration:none;
+				}
+						
+			#pie {
+				font-size:12px;
+				color:#FFFFFF;
+			}
+			#contenido {
+				background-color: #EEEEEE;
+				margin: 10px 40px 10px 40px;
+				padding: 10px 10px 10px 10px;
+			}
+			.EnlaceRecursos{
+			background-color: #EEFFFF; color:#4E9516;
+			}
+			
+			.EnlaceRecursos:hover{
+			background-color: #EEFFFF;
+			color:#000000;
+			font-size: 18px;
+			}
+			
